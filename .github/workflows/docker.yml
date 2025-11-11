@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            cristian123/practica_cicd:latest
-            ghcr.io/cristian123/practica_cicd:latest
+            cristiiaanlp/practica_cicd:latest
+            ghcr.io/cristiiaanlp/practica_cicd:latest
